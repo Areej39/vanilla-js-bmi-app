@@ -48,7 +48,7 @@ A simple and responsive BMI (Body Mass Index) Calculator built using HTML, CSS, 
 ## Project Structure
 
 ```text
-bmi-calculator/
+vanilla-js-bmi-app/
 │
 ├── index.html
 ├── style.css
