@@ -37,6 +37,10 @@ A simple and responsive BMI (Body Mass Index) Calculator built using HTML, CSS, 
 
 ![BMI Calculator Screenshot](screenshot.png)
 
+## Live Demo
+
+https://areej39.github.io/vanilla-js-bmi-app/
+
 ## How to Use
 
 1. Enter your weight in kilograms.
